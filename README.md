@@ -1,4 +1,4 @@
-# Kmeans
+# K-Means algorithm
 K-means algorithm is one of most easy and yet powerful ways to work with unsupervised data. It depends on clustering the closer point and dividing them into k groups and returning k centroids.
 
 The algorithm operates in the following steps:
